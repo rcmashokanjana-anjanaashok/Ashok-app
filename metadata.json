@@ -1,0 +1,6 @@
+{
+  "name": "DailyLife",
+  "description": "DailyLife – All-in-one personal management and expense tracker with budget, bills, daily tasks, notes, savings goals, and loan management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
